@@ -159,4 +159,41 @@ These processes were carried out using power query
    * Hollywood: 49,500
    * North Hollywood: 47,900
 
+### OVERVIEW OF CRIME DATA BY YEAR AND GENDER/SEX
+|Crime Recorded| Gender/Sex| 2020|
+|--------------|-----------|-----|
+|Total Recorded Crimes|female| 72,645|
+|---------------------|------|-------|
+
+ * Case Status:
+  * Investigation continues: 49,615
+  * Adult arrests: 8,724
+  * Adult other: 13,845
+ * Common Crimes:
+  * Intimate partner simple assault: 8.1k
+  * Battery-simple assault: 7.8k
+  * Burglary from vehicle: 5.3K
+  * Theft plain-petty: 4.5k
+  * Theft of identity: 4.4k
+* Victim Age Range:
+  * 26-35 years: 20.5k
+  * 36-45 years: 14.3k
+  * 16-25 years: 12.6k
+* Victim Descent:
+  * Hispanic (H): 30.2k
+  * White (W): 17.6k
+  * Black (B): 15.8k
+* Crime Premises:
+  * Single family dwelling: 19.3k
+  * Multi-unit dwelling: 13.8k
+  * Street: 11.8k
+* Monthly Trends:
+  * Lowest in April: 5,554
+  * Highest in February: 6,675
+* Area with Highest Crime:
+  * 77th Street: 5.7k
+  * Foothills: 2.6k
+
+
+
 
