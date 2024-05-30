@@ -160,9 +160,22 @@ These processes were carried out using power query
    * North Hollywood: 47,900
 
 ### OVERVIEW OF CRIME DATA BY YEAR AND GENDER/SEX
-|Crime Recorded| Gender/Sex| 2020| 2021 | 2022 | 2023 | 2024|
+|Crime Recorded| Gender/Sex| 2020| 2021| 2022| 2023| 2024|
 |--------------|-----------|-----|------|------|------|-----|
-|Total Recorded Crimes| female | 72,645| 77,002 | 89,500 | 82,683 | 22,317 |
+|Total Recorded Crimes| female| 72,645| 77,002| 89,500| 82,683| 22,317|
+|                     | male| 84,942| 88,073| 95,654| 91,495|25,605|
+
+
+| Crime Recorded | Gender/Sex | 2020| 2021| 2022| 2023| 2024|
+|----------------|------------|-----|-----|-----|-----|-----|
+|case status|
+| Investigation Continues| female| 49,615| 54,227| 67,054| 62,878| 19,165|
+|Investigation Continues| male| 65,538| 69,460| 77,206| 74,156| 22,395|
+|Adult Arrest| female| 8,724| 8,523| 8,122| 7,057| 1,271|
+| Adult Arrest| male| 8,522| 8,151| 8,226| 7,605| 1,666|
+| Adult Other| female| 13,845| 13,812| 13,879| 12,247| 1,781|
+| Adult other| male| 10,431| 10,035| 9,691| 9,151| 1,366|
+
 
 |Case status|
  * Case Status:
