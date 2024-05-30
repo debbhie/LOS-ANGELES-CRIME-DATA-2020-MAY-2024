@@ -177,35 +177,30 @@ These processes were carried out using power query
 | Adult other| male| 10,431| 10,035| 9,691| 9,151| 1,366|
 
 
-|Case status|
- * Case Status:
-  * Investigation continues: 49,615
-  * Adult arrests: 8,724
-  * Adult other: 13,845
- * Common Crimes:
-  * Intimate partner simple assault: 8.1k
-  * Battery-simple assault: 7.8k
-  * Burglary from vehicle: 5.3K
-  * Theft plain-petty: 4.5k
-  * Theft of identity: 4.4k
-* Victim Age Range:
-  * 26-35 years: 20.5k
-  * 36-45 years: 14.3k
-  * 16-25 years: 12.6k
-* Victim Descent:
-  * Hispanic (H): 30.2k
-  * White (W): 17.6k
-  * Black (B): 15.8k
-* Crime Premises:
-  * Single family dwelling: 19.3k
-  * Multi-unit dwelling: 13.8k
-  * Street: 11.8k
-* Monthly Trends:
-  * Lowest in April: 5,554
-  * Highest in February: 6,675
-* Area with Highest Crime:
-  * 77th Street: 5.7k
-  * Foothills: 2.6k
+| Crime level| Crime Month| total crime|Gender/sex| Year|
+|------------|-------------|-----------|----------|-----|
+| Highest| february| 6,675| female| 2020|
+| lowest| April| 5,554| female| 2020|
+| highest| january| 8,020| male| 2020|
+| lowest| April and september|6,581|  male| 2020|
+| highest| october| 7,173|female| 2021|
+| lowest| february| 6,751| female| 2021|
+| highest| july| 8,047| male| 2021|
+| lowest| february| 6,434| male| 2021|
+| highest| october|7,860|female| 2022|
+| lowest| february| 6,751| female| 2022|
+| highest| june| 8,304| male| 2022|
+| lowest| november| 7,468| male| 2022|
+| highest| january| 7,530| female| 2023|
+| lowest| november| 6,384| female| 2023|
+| highest| july| 8,014| male| 2023|
+| lowest| november| 7,344| male| 2023|
+| highest|january| 6,047| female| 2024|
+| lowest| may| 1,121| female| 2024|
+| highest| january| 7,301| male| 2024|
+| lowest| may| 1,371| male| 2024|
+
+
 
 
 
