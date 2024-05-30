@@ -151,4 +151,12 @@ These processes were carried out using power query
    * Driveway: 15,000
    * Department store: 12,600
 
-  
+* Crime incident by Area name:
+   * Central: 63,700
+   * 77th street: 59,200
+   * Pacific: 55,000
+   * Southwest: 53,500
+   * Hollywood: 49,500
+   * North Hollywood: 47,900
+
+
