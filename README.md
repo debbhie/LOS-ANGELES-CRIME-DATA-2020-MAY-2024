@@ -45,10 +45,43 @@ This expalins each column in the dataset as follows;
 * Average age of victims
 * Average delay report days
 
-### sECONDARY KPIS
+### SECONDARY KPIS
 * Top 5 most common crimes
 * Crime incident by victims gender/sex
 * Crime incident by victim descent
 * Crime incident by monthly trends
 * Highest crime occured and percentage of the total recorded.
+* Crime incident by victims age range
+* Top 10 crime premises description
+* Crime incident occured by area name
+
+## DATA CLEANING
+These processes were carried out using power query
+* No duplicates were found in the dataset
+* The null values were replaced with "no record" because there are no constant values and the informations missing were very important to ensure accurate analysis.
+
+## DATA PROCESSING
+* Months of the year were extracted from the date columns.
+* Report delay days column was created by using function (days) on excel to extract number of days it took for the crime to be reported.
+
+## DATA ANALYSIS
+ 
+### PRIMARY KPIS
+* Total number of recorded crimes between 2020 to may 2024 is 944,235.
+
+* Percentage of total crimes recorded with respect to status of case:
+   * Adult Arrest: 82,182 (9%)
+   * Adult other: 102,928 (11%)
+   * Investigation continues: 754,264 (80%)
+   * Juvenile arrest: 3,102
+   * Juvenile other; 1,754
+   * Unkonwn: 5
+
+* Average age of victims: 56years old.
+
+* Average report delay days: 692days
+
+### SECONDARY KPI
+
+
   
