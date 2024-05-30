@@ -1,5 +1,19 @@
 # LOS-ANGELES-CRIME-DATA-2020-MAY-2024
 
+## TABLE OF CONTENT
+- [LOS ANGELES CRIME DATA 2020 - MAY 2024 OVERVIEW](los-angeles-crime-data-2020-may-2024)
+- [DATA SOURCE](data-source)
+- [LANDING PAGE](landing-page)
+- [TOOLS](tools)
+- [EXPLORATORY DATA ANALYSIS](exploratory-data-analysis)
+- [DATA CLEANING](data-cleaning)
+- [DATA PROCESSING](data-processing)
+- [DATA ANALYSIS](data-analysis)
+- [DATA VISUALIZATION](data-visualization)
+- [INSIGHTS](insights)
+- [RECOMMENDATIONS](recommendations)
+
+
 ## LOS ANGELES CRIME DATA 2020 - MAY 2024 OVERVIEW
 The Los Angeles crime data report provides a comprehensive analysis of crime incident from 2020 -2024. The dataset includes detailed information on the date, location of crimes, the demographic characteristics of victims, the status of cases and other key variables. This report aims to present key performance indicators (KPIS) derived from the dataset to understand crime trends, identidy common crimes and provide insights for potential policy and enforcement improvements.
 
@@ -200,6 +214,56 @@ These processes were carried out using power query
 | highest| january| 7,301| male| 2024|
 | lowest| may| 1,371| male| 2024|
 
+## DATA VISUALIZATION
+
+
+## INSIGHTS
+* CRIME TRENDS:
+  * There is a high volume of vehicle-related crimes, particularly vehicle theft.
+  * Crime tends to peak in the summer months and around holiday seasons.
+
+* VICTIMS DEMOGRAPHICS:
+   * A significant number of crimes involve younger adults aged 26-35.
+   * Hispanic/latino/mexican victims constitute the largesr ethnic group among recorded crimes.
+
+* CASE STATUS:
+   * The vast majority of the cases remain under investigation, indicating potential bottle necks or resource constraints within investigative processes.
+
+* REPORT DELAYS: The average delay in reporting crimes is alarming high, with significant delays in some cases exceeding a year.
+
+* GENDER DISPARITIES:
+   * There are noticeable differences in crime typrs and frequencies between male and female victims. For example, intimate partner assault is significantly high in female while assault with deadly weapon is high in male.
+
+
+## RECOMMENDATIONS
+* ENHANCE DATA COLLECTION AND CATEGORIZATION:
+  * Improve the accuracy and completness of data recording, especially for victims demographics and case statuses.
+  * Implement standardized data entry protocols across all precinctd to ensure consistency.
+ 
+* REDUCE REPORTING DAYS:
+  * Develop and promote public awareness campaigns to encourage timely reporting of crimes.
+  * Implement streamlined reporting systems, including online and mobile platforms, to make it easier for victims to report incidents.
+
+* TARGETED CRIME PREVENTION STRATEGIES:
+  * Focus on high incident crimes such as vehicle theft and battery-simple assault with targeted prevention and intervention programs.
+  * Increase police presence and surviellance in high crime areas like central, 77th street and pacific to deter criminal activities.
+
+* SUPPORT FOR VULNERABLE DEMOGRAPHICS:
+  * Provide additional resources and support service for demographics with high crime victimization rate such as hispanic/latino/mexican descent communities and younger victims'.
+  * Develop specialized programs for crime prevention and victims support tailored to the needs of these communities.
+
+ * IMPROVE PREMISES SECURITY:
+     * Work with local businesses and residential areas to enhance security measures in top crime premises like street, single-family and multi-unit dwellings.
+     * Promote community-based initiatives such as neighborhood watch programs to increase vigilance and reporting.
+  
+  * MONTHLY CRIME PATTERN ANALYSIS:
+     * Conduct monthly analysis of crime trends to identify and respond to emerging patterns promptly.
+     * Allocate resources dynamically based on monthly crime fluctuations to address peak crime periods effectively.
+
+  * ENHANCE INVESTIGATION AND CASE RESOLUTION:
+     * Allocate more resources to expedite ongoing investigations, aiming to reduce the backlogs of unresolved cases.
+     * Implement training programs for law enforcement officers to improve investigation techniques and case management.
+    
 
 
 
