@@ -34,4 +34,21 @@ This expalins each column in the dataset as follows;
 * LOCATION: Street address of crime incident rounded to the nearest hundred block to maintain anonymity.
 * CROSS STREET: Cross street of rounded address.
   
+## TOOLS
+- Microsoft excel - data analysis
+- Microsoft excel - dashboard / data visualization
 
+## EXPLORATORY DATA ANALYSIS
+### PRIMARY KPIS
+* Total number of crimes recorded 
+* Total number of recorded crimes and percentage of total with respect to status of case.
+* Average age of victims
+* Average delay report days
+
+### sECONDARY KPIS
+* Top 5 most common crimes
+* Crime incident by victims gender/sex
+* Crime incident by victim descent
+* Crime incident by monthly trends
+* Highest crime occured and percentage of the total recorded.
+  
