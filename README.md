@@ -81,7 +81,74 @@ These processes were carried out using power query
 
 * Average report delay days: 692days
 
-### SECONDARY KPI
+### SECONDARY KPIS
+* Top 5 common crimes
+ * Vehicle-stolen: 102,203
+ * Battery-simple assault: 74,500
+ * Burglary from vehicle: 58,300
+ * Theft of Identity: 58,200
+ * Burglary: 57,200
 
+* Crime incident by victims gender/sex
+   * Male: 385,800
+   * Female: 344,400
+   * Unknown: 87,700
+   * No record: 126,600
+
+* Crime incident by victims age range
+   * -4-5years: 242,200
+   * 26-35years: 198,100
+   * 36-45years: 146,300
+   * 16-25years: 116,200
+   * 46-55years: 105,300
+   * 56-65years: 73,100
+   * 66-75years: 33,800
+   * 6-15years: 105,300
+   * 76-85years: 11,100
+   * 86-95years: 2,500
+   * 96-105years: 600
+   * 116-125years: 0
+
+* Crime incident by victims descent
+   * Hispanic/latino/mexican (H): 286,400
+   * White (W): 190,500
+   * Black (B): 131,700
+   * No record: 126,600
+   * Unknown (X): 96,200
+   * Others: 74,400
+   * Other Asian (A): 20,600
+   * kOREAN (K): 5,200
+   * Filipino (F): 4,100
+   * Chinese (C): 3,800
+   * Japanese (J): 1,300
+   * Vietnamese (V): 1,000
+   * American indian/Alaskan native (I): 900
+   * Asian indian (Z): 500
+   * Pacific Islander (P): 300
+   * Hawaiian (u): 200
+   * Cambodian (D): 100
+   * Guamanian (G): 100
+   * Laotian (L): 100
+   * Samoan (S): 100
+   * Uknown: 0
+
+  * Crime incident by monthly trends
+    * Lowest crime month: february 2021 with the total recorded crimes of 15,427
+    * Highest crime month: may 2022 with the total recorded crimes of 20,450
+
+  * Highest crime type:
+     vehicle-stolen with the total of 102,203
+
+* Top 10 crime premises
+   * Street: 240,300
+   * Single family dwelling: 158,900
+   * Multi unit dwelling: 114,800
+   * Parking lots: 65,200
+   * Other business: 45,000
+   * Side walks: 39,900
+   * Vehicle/passenger/truck: 27,500
+   * Garage/Carpots: 18,100
+   * Driveway: 15,000
+   * Department store: 12,600
 
   
