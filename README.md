@@ -9,5 +9,7 @@ The primary data is gotten from data.gov
 
 ## LANDING PAGE
 This expalins each column in the dataset as follows;
-* ### DR_NO:
+* DR_NO: Division of record numbers. This is made up of a 2-digit year, area_id and 5-digits.
+* DATE RPTD: Date and time the incident was reported.
+  
 
