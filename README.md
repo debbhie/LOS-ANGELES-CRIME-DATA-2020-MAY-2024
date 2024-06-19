@@ -1,17 +1,17 @@
 # LOS-ANGELES-CRIME-DATA-2020-MAY-2024
 
 ## TABLE OF CONTENT
-- [LOS ANGELES CRIME DATA 2020 - MAY 2024 OVERVIEW](los-angeles-crime-data-2020-may-2024)
-- [DATA SOURCE](data-source)
-- [LANDING PAGE](landing-page)
-- [TOOLS](tools)
-- [EXPLORATORY DATA ANALYSIS](exploratory-data-analysis)
-- [DATA CLEANING](data-cleaning)
-- [DATA PROCESSING](data-processing)
-- [DATA ANALYSIS](data-analysis)
-- [DATA VISUALIZATION](data-visualization)
-- [INSIGHTS](insights)
-- [RECOMMENDATIONS](recommendations)
+- [LOS ANGELES CRIME DATA 2020 - MAY 2024 OVERVIEW](#los-angeles-crime-data-2020-may-2024)
+- [DATA SOURCE](#data-source)
+- [LANDING PAGE](#landing-page)
+- [TOOLS](#tools)
+- [EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+- [DATA CLEANING](#data-cleaning)
+- [DATA PROCESSING](#data-processing)
+- [DATA ANALYSIS](#data-analysis)
+- [DATA VISUALIZATION](#data-visualization)
+- [INSIGHTS](#insights)
+- [RECOMMENDATIONS](#recommendations)
 
 
 ## LOS ANGELES CRIME DATA 2020 - MAY 2024 OVERVIEW
