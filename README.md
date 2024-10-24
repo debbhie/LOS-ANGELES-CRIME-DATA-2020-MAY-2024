@@ -214,7 +214,7 @@ These processes were carried out using power query
 | highest| january| 7,301| male| 2024|
 | lowest| may| 1,371| male| 2024|
 
-## DATA VISUALIZATION
+## DASHBOARD
 
 ![Crime data](https://github.com/debbhie/LOS-ANGELES-CRIME-DATA-2020-MAY-2024/assets/161854079/8ff02842-2287-4c6d-9943-99a0c3d78fc1)
 
